@@ -1,11 +1,8 @@
-docs_list_title: ACME Documentation
+docs_list_title: Views
 docs:
 
-- title: Introduction
+- title: Program View
   url: #
 
-- title: Configuration
-  url: #
-
-- title: Deployment
+- title: Unit View
   url: #
