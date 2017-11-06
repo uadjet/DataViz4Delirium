@@ -22,11 +22,11 @@
       text-align: center;
       text-decoration: none;
       display: block;
-      font-size: 16px;
+      font-size: 18px;
       font-family: 'Lato';
       font-weight: 200
       /*margin: 4px 2px;*/
-      cursor: pointer;
+      /*cursor: pointer;*/
     }
 
     .button2 {
@@ -50,11 +50,16 @@
       <p>{{ site.description | default: site.github.project_tagline }}</p>
 
 
-      <button class="button button2">Program View</button>
-      <button class="button button3">Unit View</button>
+      <a href="{{ site.baseurl }}">
+        <button class="button button2">Program View</button>
+      </a>
+
+      <a href="{{ site.baseurl }}{% post_url 2017-11-6-unit %}">
+        <button class="button button3">Unit View</button>
+      </a>
 
 
-      <!-- {% if site.github.is_project_page %}
+        <!-- {% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
         {% endif %}
 
