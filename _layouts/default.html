@@ -20,12 +20,10 @@
       <p>{{ site.description | default: site.github.project_tagline }}</p>
 
 
-      <h2>{{ site.data.pagelist.docs_list_title }}</h2>
-      <ul>
-        {% for item in site.data.pagelist.docs %}
-        <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
-        {% endfor %}
-      </ul>
+      <h2> Program View </h2>
+
+      <h2> Unit View </h2>
+
 
       <!-- {% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
