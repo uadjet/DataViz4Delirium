@@ -4,13 +4,6 @@ title: Program Overview
 ---
 {% include header_Program.html %}
 
-## UCSF Test Landing Page
-
-### Test the Tableau Embedding
-
+<br><br>
 
 {% include program/Program_Trends.html %}
-
-
-
-{% include Delirium_Time.html %}
