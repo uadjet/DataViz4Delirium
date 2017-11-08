@@ -6,7 +6,9 @@ title: Program Overview
 
 <br>
 
-<img src={{ "/assets/Stats.png" | absolute_url }} alt="Drawing" style="width: 650px;"/>
+<div>
+  <img src={{ "/assets/Stats.png" | absolute_url }} alt="Drawing" style="width: 650px;"/>
+</div>
 
 <br><br>
 
