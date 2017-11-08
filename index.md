@@ -9,7 +9,7 @@ title: Program Overview
 <!-- {% include program/stats.html %}
 <img src={{ "/assets/Stats.svg" | absolute_url }} alt="Drawing" width="650px"> -->
 
-![Stats]({{ "/assets/Stats.svg" | absolute_url }}) <!-- .element width="650px" -->
+![Stats]({{ "/assets/Stats.svg" | absolute_url }}) <!-- .element style= "width=650px" -->
 
 <br><br>
 
