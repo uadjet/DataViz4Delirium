@@ -6,8 +6,12 @@ title: Program Overview
 
 <br>
 
-![Stats Image]({{ "/assets/Stats.png" | absolute_url }})
+![Stats Image]({{ "/assets/Stats.png" | absolute_url }} =650x)
 
 <br><br>
 
 {% include program/Program_Trends.html %}
+
+<br><br>
+
+{% include program/Patient_Outcomes.html %}
