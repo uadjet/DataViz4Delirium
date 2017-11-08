@@ -7,6 +7,7 @@ title: Program Overview
 <br>
 
 {% include program/stats.html %}
+<img src={{ "/assets/Stats.svg" | absolute_url }} alt="Drawing" width="650px" />
 
 <br><br>
 
