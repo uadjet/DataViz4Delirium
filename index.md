@@ -6,7 +6,7 @@ title: Program Overview
 
 <br>
 
-![Stats Image]({{ "/assets/Stats.svg" | absolute_url }})
+![Stats Image]({{ "/assets/Stats.png" | absolute_url }})
 
 <br><br>
 
