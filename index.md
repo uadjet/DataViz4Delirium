@@ -2,11 +2,11 @@
 layout: default
 title: Program Overview
 ---
-![Stats Image]({{ "/assets/Stats.svg" | absolute_url }})
-
 {% include header_Program.html %}
 
+<br>
 
+![Stats Image]({{ "/assets/Stats.svg" | absolute_url }})
 
 <br><br>
 
