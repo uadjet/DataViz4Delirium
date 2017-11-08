@@ -8,9 +8,6 @@ title: Program Overview
 
 {% include program/stats.html %}
 
-
-<br><br>
-
 {% include program/Program_Trends.html %}
 
 <br><br>
