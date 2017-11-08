@@ -8,9 +8,9 @@ title: Program Overview
 
 {% include program/stats.html %}
 
-<img src={{ "/assets/Stats.svg" | absolute_url }} alt="Drawing" width="650px">
+<img src={{ "/assets/Stats.png" | absolute_url }} alt="Drawing" width="650px">
 
-![Stats]({{ "/assets/Stats.svg" | absolute_url }}?s=650) <!-- .element style= "width=650px" -->
+![Stats]({{ "/assets/Stats.svg" | absolute_url }}?w=650) <!-- .element style= "width=650px" -->
 
 
 
