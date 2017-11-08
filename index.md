@@ -6,7 +6,7 @@ title: Program Overview
 
 <br>
 
-![Stats Image]({{ "/assets/Stats.png" | absolute_url }} =650x)
+<img src={{ "/assets/Stats.png" | absolute_url }} alt="Drawing" style="width: 650px;"/>
 
 <br><br>
 
