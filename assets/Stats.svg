@@ -325,7 +325,7 @@
 	</g>
 	<rect x="98" y="135.5" class="st16" width="145.5" height="21.3"/>
 	<text transform="matrix(1 0 0 1 97.954 150.0673)" class="st17 st18">Compliance Rate</text>
-	<text transform="matrix(1 0 0 1 131.9559 191.3447)" class="st19 st20 st21">39.4%</text>
+	<text transform="matrix(1 0 0 1 131.9559 191.3447)" class="st19 st20 st21">67.9%</text>
 	<g>
 		<circle class="st0" cx="325.5" cy="244.5" r="88"/>
 		<g>
@@ -565,7 +565,7 @@
 	</g>
 	<rect x="253.1" y="205.2" class="st16" width="145.5" height="39.7"/>
 	<text transform="matrix(1 0 0 1 288.6758 219.7304)"><tspan x="0" y="0" class="st17 st18">Delirium </tspan><tspan x="-0.4" y="24" class="st17 st18">Intensity</tspan></text>
-	<text transform="matrix(1 0 0 1 287.0937 279.3477)" class="st35 st20 st21">63.9%</text>
+	<text transform="matrix(1 0 0 1 287.0937 279.3477)" class="st35 st20 st21">38.0%</text>
 	<g>
 		<circle class="st0" cx="475.5" cy="343.5" r="88"/>
 		<g>
@@ -805,7 +805,7 @@
 	</g>
 	<rect x="402.9" y="317.3" class="st16" width="145.5" height="20.6"/>
 	<text transform="matrix(1 0 0 1 414.9934 331.9087)" class="st17 st18">Length of Stay</text>
-	<text transform="matrix(1 0 0 1 436.6625 365.6603)"><tspan x="0" y="0" class="st49 st20 st21">17.41</tspan><tspan x="15.8" y="21.6" class="st49 st50 st51">Days</tspan></text>
+	<text transform="matrix(1 0 0 1 436.6625 365.6603)"><tspan x="0" y="0" class="st49 st20 st21">9.91</tspan><tspan x="15.8" y="21.6" class="st49 st50 st51">Days</tspan></text>
 	<g>
 		<circle class="st0" cx="479.5" cy="161.5" r="88"/>
 		<g>
@@ -1045,7 +1045,7 @@
 	</g>
 	<rect x="406.3" y="119.9" class="st16" width="145.5" height="41.2"/>
 	<text transform="matrix(1 0 0 1 441.8643 134.461)"><tspan x="0" y="0" class="st17 st18">Delirium </tspan><tspan x="-1.4" y="24" class="st17 st18">Duration</tspan></text>
-	<text transform="matrix(1 0 0 1 440.0331 192.3629)"><tspan x="0" y="0" class="st65 st20 st21">16.36</tspan><tspan x="15.8" y="21.6" class="st65 st50 st51">Days</tspan></text>
+	<text transform="matrix(1 0 0 1 440.0331 192.3629)"><tspan x="0" y="0" class="st65 st20 st21">3.72</tspan><tspan x="15.8" y="21.6" class="st65 st50 st51">Days</tspan></text>
 	<g>
 		<circle class="st0" cx="170.5" cy="332.5" r="88"/>
 		<g>
