@@ -1045,7 +1045,7 @@
 	</g>
 	<rect x="406.3" y="119.9" class="st16" width="145.5" height="41.2"/>
 	<text transform="matrix(1 0 0 1 441.8643 134.461)"><tspan x="0" y="0" class="st17 st18">Delirium </tspan><tspan x="-1.4" y="24" class="st17 st18">Duration</tspan></text>
-	<text transform="matrix(1 0 0 1 440.0331 192.3629)"><tspan x="0" y="0" class="st65 st20 st21">3.72</tspan><tspan x="15.8" y="21.6" class="st65 st50 st51">Days</tspan></text>
+	<text transform="matrix(1 0 0 1 440.0331 192.3629)"><tspan x="0" y="0" class="st65 st20 st21">  3.72</tspan><tspan x="15.8" y="21.6" class="st65 st50 st51">Days</tspan></text>
 	<g>
 		<circle class="st0" cx="170.5" cy="332.5" r="88"/>
 		<g>
