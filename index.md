@@ -4,6 +4,7 @@ title: Program Overview
 ---
 {% include header_Program.html %}
 
+<br><br>
 
 Delirium is a serious disturbance in mental abilities that results in confused thinking and reduced awareness of your environment.  The UCSF Delirium Reduction Initiative (DRI) aims to reduce rates of delirium in patients by diagnosing patients early and treating symptoms more effectively.
 
@@ -34,7 +35,7 @@ The  most drastic changes are the 24.71% decrease in patients who went against m
 
 <br><br>
 
-#Program Compliance 
+#Program Compliance
 
 The rates of compliance for AWOL and NuDESC are calculated since the start of the program as well as in just 2017.
 {% include program/comp.html %}
