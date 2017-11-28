@@ -4,7 +4,7 @@ title: Program Overview
 ---
 {% include header_Program.html %}
 
-<br><br>
+<br>
 
 
 # Delirium Reduction Initiative
@@ -15,7 +15,7 @@ This dashboard presents an overview of the performance of the DRI since it began
 <br><br>
 
 {% include program/stats.html %}
-These are the initiatives’ key metrics in July 2017.
+These are the initiatives’ key metrics as of July 2017.
 
 <br><br>
 
